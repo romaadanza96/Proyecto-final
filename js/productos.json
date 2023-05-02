@@ -1,0 +1,152 @@
+[
+    {
+        "id": "hamburguesa-01",
+        "titulo": "Hamburguesa con queso",
+        "imagen": "./img/burguers/01.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 850
+    },
+    {
+        "id": "hamburguesa-02",
+        "titulo": "Hamburguesa doble",
+        "imagen": "./img/burguers/02.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 1700
+    },
+    {
+        "id": "hamburguesa-03",
+        "titulo": "Hamburguesas con roquefort",
+        "imagen": "./img/burguers/03.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "hamburguesa-04",
+        "titulo": "Hamburguesa hawaiana",
+        "imagen": "./img/burguers/04.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 1800
+    },
+    {
+        "id": "hamburguesa-05",
+        "titulo": "Opción Vegana",
+        "imagen": "./img/burguers/05.jpg",
+        "categoria": {
+            "nombre": "Hamburguesas",
+            "id": "hamburguesas"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "milanesa-01",
+        "titulo": "Milanesa de carne simple",
+        "imagen": "./img/milangas/01.jpg",
+        "categoria": {
+            "nombre": "Milanesas",
+            "id": "milanesas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "milanesa-02",
+        "titulo": "Milanesa a la napolitana",
+        "imagen": "./img/milangas/02.jpg",
+        "categoria": {
+            "nombre": "Milanesas",
+            "id": "milanesas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "milanesas-03",
+        "titulo": "Milanesa de pollo",
+        "imagen": "./img/milangas/03.jpg",
+        "categoria": {
+            "nombre": "Milanesas",
+            "id": "milanesas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "milanesas-04",
+        "titulo": "Milanesa de soja",
+        "imagen": "./img/milangas/04.jpg",
+        "categoria": {
+            "nombre": "Milanesas",
+            "id": "milanesas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "milanesas-05",
+        "titulo": "Milanesa a la suiza",
+        "imagen": "./img/milangas/05.jpg",
+        "categoria": {
+            "nombre": "Milanesas",
+            "id": "milanesas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "milanesas-06",
+        "titulo": "Milanesa de berengena",
+        "imagen": "./img/milangas/06.jpg",
+        "categoria": {
+            "nombre": "Milanesas",
+            "id": "milanesas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "choripan-01",
+        "titulo": "Choripán clásico",
+        "imagen": "./img/choris/01.jpg",
+        "categoria": {
+            "nombre": "Choripanes",
+            "id": "choripanes"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "choripan-02",
+        "titulo": "Choripán completo",
+        "imagen": "./img/choris/02.jpg",
+        "categoria": {
+            "nombre": "Choripanes",
+            "id": "choripanes"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "choripan-03",
+        "titulo": "Choripán con chimichurri",
+        "imagen": "./img/choris/03.jpg",
+        "categoria": {
+            "nombre": "Choripanes",
+            "id": "choripanes"
+        },
+        "precio": 1700
+    },
+    {
+        "id": "choripan-04",
+        "titulo": "Choripán de bondiola",
+        "imagen": "./img/choris/04.jpg",
+        "categoria": {
+            "nombre": "Choripanes",
+            "id": "choripanes"
+        },
+        "precio": 2000
+    }
+]
